@@ -1,4 +1,4 @@
-.env
+
 
 # Logs
 logs
@@ -19,6 +19,7 @@ dist-ssr
 !.vscode/extensions.json
 .idea
 .DS_Store
+.env
 *.suo
 *.ntvs*
 *.njsproj
