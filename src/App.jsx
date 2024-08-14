@@ -16,7 +16,7 @@ function App() {
       </AppTitle>
       <Container>
         {createClicked ? (
-          <Create />
+          <Create/>
         ) : (
           <>
             <h3>Add ingredients you have</h3>

@@ -68,7 +68,7 @@ export const Button = styled.button`
   justify-content: center;
   line-height: 24px;
   max-width: 100%;
-  padding: 0 40px;
+  padding: 0 20px;
   position: relative;
   text-align: center;
   text-decoration: none;
